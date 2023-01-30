@@ -6,5 +6,5 @@ Untick Use Kprobes option before building using KernelSU_Action
 
 
 Special Thanks to
-RyuujiX for kernel source
+RyuujiX for kernel source and 
 tiann for KernelSU
