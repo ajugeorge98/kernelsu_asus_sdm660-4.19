@@ -3,3 +3,8 @@
 Source is manually patched to support kernelsu.
 Build kernel using https://github.com/xiaoleGun/KernelSU_Action
 Untick Use Kprobes option before building using KernelSU_Action
+
+
+Special Thanks to
+RyuujiX for kernel source
+tiann for KernelSU
