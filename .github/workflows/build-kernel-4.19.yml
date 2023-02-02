@@ -8,11 +8,11 @@ on:
       KERNEL_SOURCE:
         description: 'Kernel Source'
         required: true
-        default: 'https://github.com/ajugeorge98/android_kernel_asus_sdm660-4.19.git'
+        default: 'https://github.com/ajugeorge98/kernelsu_asus_sdm660-4.19.git'
       KERNEL_SOURCE_BRANCH:
         description: 'Branch'
         required: true
-        default: 'r3/s'
+        default: 'main'
       KERNEL_DEFCONFIG:
         description: 'Defconfig'
         required: true
