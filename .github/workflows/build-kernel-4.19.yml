@@ -42,7 +42,7 @@ on:
       USE_KPROBES:
         description: 'Use Kprobes'
         required: false
-        default: 'true'
+        default: 'false'
         type: boolean
 
 jobs:
