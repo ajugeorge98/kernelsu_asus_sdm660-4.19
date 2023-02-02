@@ -1,4 +1,4 @@
-name: Build Kernel
+name: Build Kernel X00TD 4.19 with KernelSU
 on:
   watch:
     types: [started]
